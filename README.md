@@ -1,19 +1,19 @@
 # Industrial Reliability & Lubrication Best Practices (LBP) Feasibility Study
-### Economic & Operational Optimization at Hikma-Arab Medical Containers Co. (AMC)
+### Economic & Operational Optimization for a Manufacturing Site
 
 **Course:** DS-301 / IE0361 - Engineering Economics  
 **Instructor:** Prof. Safwan Altarazi  
 **Authors:** Baha'a Al-Shorman, Ramez Al-Masadeh  
 **Institution:** German Jordanian University (GJU)  
-**Report:** `docs/Hikma_AMC_Lubrication_Best_Practices_Report.pdf`
+**Report:** `docs/Industrial_Reliability_LBP_Feasibility_Report.pdf`
 
 ---
 
 ## Executive Summary
 
-Hydraulic system failures resulting from lubricant contamination, premature oil degradation, and sub-optimal change intervals represent major operating expenses in precision manufacturing. This project investigates the economic and technical feasibility of transitioning **Hikma-Arab Medical Containers Co. (AMC)** from reactive lubrication to structured **Lubrication Best Practices (LBP)**.
+Hydraulic system failures resulting from lubricant contamination, premature oil degradation, and sub-optimal change intervals represent major operating expenses in precision manufacturing. This project investigates the economic and technical feasibility of moving a manufacturing site from reactive lubrication practices to structured **Lubrication Best Practices (LBP)**.
 
-At the baseline, AMC incurred approximately **96,250 JOD annually** in lubricant acquisition, component replacement, and unexpected downtime.
+At the baseline, the studied site incurred approximately **96,250 JOD annually** in lubricant acquisition, component replacement, and unexpected downtime.
 
 ---
 
@@ -30,4 +30,8 @@ Using discounted cash flow (DCF) techniques, two investment packages were modele
 | **Benefit–Cost (B/C) Ratio** | 3.12 | **3.28** |
 
 ### Decision Rationale
-While the Basic package yields a slightly faster payback, the **Advanced LBP Package** was recommended because it addresses root contamination through dedicated filtration, automated dispensing, and condition-based oil monitoring, maximizing long-term hydraulic asset longevity and maximizing net cumulative savings.
+While the Basic package yields a slightly faster payback, the **Advanced LBP Package** was recommended because it addresses root contamination through dedicated filtration, automated dispensing, and condition-based oil monitoring, maximizing long-term hydraulic asset longevity and net cumulative savings.
+
+## GitHub Preview
+
+The anonymized report is available as a browser-readable PDF in `docs/`. Names of the external industrial site and its operating unit were removed for confidentiality; the technical method and economic results remain unchanged.
